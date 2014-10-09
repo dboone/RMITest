@@ -9,7 +9,7 @@ Thanks to ZaneAcademy for the excellent video tutorial: https://www.youtube.com/
 (1) Open a terminal and add the appropriate version of the JDK to your path.
 	`set PATH=%PATH%;"C:\Program Files\Java\jdk1.7.0_67\bin"`
 
-(2) Run the RMI Compiler `rmic rmictest.RMIDemoFunct` from the .\bin folder to produce the stub class.
+(2) Run the RMI Compiler `rmic rmitest.RMIDemoFunct` from the .\bin folder to produce the stub class.
 
 (3) Run `rmiregistry`
 
